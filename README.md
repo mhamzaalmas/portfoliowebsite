@@ -1,5 +1,5 @@
 # portfoliowebsite
-Author: M-Hamza
+Author: M-Hamza learning git and github
 <br>
 first git repository
 <br>
